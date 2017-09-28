@@ -307,7 +307,7 @@ Each group (remember to tell me *whose* database has the group's works in canvas
 
 * Create a table named `CSQ_employee` with the following fields:
    * employee_number:  INT
-   * salary: FIXED(6,2)
+   * salary: FIXED(8,2)
    * department_ID: INT
    * employee_name: TEXT
 * Create a table named `CSQ_dept_lookup`:
